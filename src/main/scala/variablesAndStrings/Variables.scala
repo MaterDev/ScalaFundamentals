@@ -1,3 +1,5 @@
+package variablesAndStrings
+
 @main
 def variables(): Unit = {
   // "var" variables are mutable

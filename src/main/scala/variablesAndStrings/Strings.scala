@@ -1,3 +1,5 @@
+package variablesAndStrings
+
 @main
 def strings(): Unit = {
   // If you have to use 'double quotes' or 'back-slashes', you need to escape the characters

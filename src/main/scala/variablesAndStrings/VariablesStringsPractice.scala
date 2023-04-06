@@ -1,3 +1,5 @@
+package variablesAndStrings
+
 @main
 def variablesStringsPractice(): Unit = {
   val myCatSentence = "My cat's name is \"Fluffy\""
