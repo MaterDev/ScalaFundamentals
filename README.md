@@ -1,5 +1,9 @@
 # ScalaFundamentals 🚀
 
+![Scala Fundamentals Cover](CoverImage.png)
+
+## Intro
+
 Welcome to the ScalaFundamentals repository! 😃 Here, you'll find all the code, notes, and practice materials related to the fantastic course "Complete Scala 3" on Udemy. This course is designed to take you from a complete beginner in software development to an expert in the Scala 3 programming language, covering everything from fundamentals to advanced topics.
 
 The course is created by the talented Catalin Stefan, a software development teacher with a passion for enriching people's lives through teaching. He has over 10 years of experience in mobile application development and has taught thousands of students across numerous courses.
