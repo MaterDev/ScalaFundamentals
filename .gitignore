@@ -3,7 +3,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .bsp
-.idea
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
